@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "42476282835",
+    "firebase_url": "https://modul6android.firebaseio.com",
+    "project_id": "modul6android",
+    "storage_bucket": "modul6android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42476282835:android:f2bc9e44daab828a",
+        "android_client_info": {
+          "package_name": "com.android.zahra.zahra_1202150246_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42476282835-k89191nqe2p1gq53mi1fvaqk6jj7tgee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_XSd_rBN3BL7UGEweGoMffHp9OJYw5xc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42476282835:android:b52ace3bd0c040fb",
+        "android_client_info": {
+          "package_name": "com.zahra.android.zahramaida_1202150246_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42476282835-k89191nqe2p1gq53mi1fvaqk6jj7tgee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_XSd_rBN3BL7UGEweGoMffHp9OJYw5xc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
